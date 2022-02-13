@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  uder_id: 1
+  post_image_id: 1
+
+two:
+  uder_id: 1
+  post_image_id: 1
